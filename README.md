@@ -27,7 +27,6 @@ I'm Dragoș, a dynamic Frontend Engineer, who's also tackling full-stack intrica
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" title="Prisma" width="40" height="40"/>
 <img src="https://zod.dev/logo.svg" alt="Zod" title="Zod" width="40" height="40"/>
-
 </div>
 
 ## Previously worked with:
@@ -37,3 +36,7 @@ I'm Dragoș, a dynamic Frontend Engineer, who's also tackling full-stack intrica
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" title="Laravel" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" title="jQuery" width="40" height="40"/>
 </div>
+
+## (ง •_•)ง
+
+![](https://komarev.com/ghpvc/?username=dragos-cojocaru&style=for-the-badge&color=green&abbreviated=true)
