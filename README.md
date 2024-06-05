@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Dragoș, a dynamic Frontend Engineer, who's also tackling full-stack intricacies, deeply engaged in the ever-evolving JavaScript landscape. My journey spans experiences with a well-established corporation, an agile startup, and freelance work. I'm constantly looking to improve my current knowledge set. Having worked fully remotely in a distributed team across different timezones, I've honed my skills in an environment that demands autonomy and teamwork. Comfortable with discomfort, I embrace challenges, perpetually on a journey of mastery.
+I'm Dragoș, a dynamic Software Engineer, who's tackling full-stack and design intricacies, deeply engaged in the ever-evolving JavaScript landscape. My journey spans experiences with a well-established corporation, an agile startup, and freelance work. I'm constantly looking to improve my current knowledge set. Having worked fully remotely in a distributed team across different timezones, I've honed my skills in an environment that demands autonomy and teamwork. Comfortable with discomfort, I embrace challenges, perpetually on a journey of mastery.
 
 ## Currently working with
 <div>
